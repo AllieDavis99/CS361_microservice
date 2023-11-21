@@ -10,4 +10,4 @@ First microservice.py must be running. Then the main service will write a userna
 Once microservice.py has saved the user-provided username and password, it will replace the user data in the text file with the confirmation message "User Data Stored". An example of this is in the microservice.txt file. After the confirmation message has been posted, microservice.py will continue to scan for username and password combinations.
 
 ## UML Sequence Diagram
-
+![alt text](https://github.com/AllieDavis99/CS361_microservice/blob/main/Untitled%20drawing.jpg?raw=true)
